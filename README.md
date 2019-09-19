@@ -2,4 +2,4 @@
 
 01 added
 
-02 today add
+02 (rock-paper-scissors) added
