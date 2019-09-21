@@ -1,3 +1,3 @@
 # JavaScript--HomeWork
 
-Hotel
+Hotel - Property
